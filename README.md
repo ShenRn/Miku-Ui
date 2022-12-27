@@ -8,6 +8,10 @@ Miku UI is an AOSP-Based Project focus on Performance and ...
 
 > **Miku？**
 
+> Datang Sebagai Pemula
+
+> Pulang Sebagai Legenda
+
 **How to Start！**
 
 Well...Are you a buildbot?
